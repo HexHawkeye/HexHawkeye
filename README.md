@@ -1,10 +1,12 @@
 # Hi, I'm Adrian 👋
 
-I'm a UK-based .NET developer focused on building practical software, developer tools, integrations, and automation.
+I'm a UK-based **Full-Stack Developer** focused on building practical software, business applications, integrations, and automation.
 
-I enjoy taking real-world problems and turning them into useful applications — from infrastructure monitoring and asset management to workflow automation and stock systems.
+I enjoy solving real-world problems with technology — taking ideas from concept through to development, deployment, and ongoing improvement.
 
-My main stack is **C#, .NET, ASP.NET Core, SQL Server and PowerShell**.
+I work across the full stack, from user interfaces and APIs to databases, integrations, and infrastructure. My core technologies include **C#, .NET, ASP.NET Core, SQL Server and PowerShell**, alongside experience with Windows and Linux environments.
+
+I'm always exploring new technologies and approaches rather than limiting myself to a single stack.
 
 ## 🚀 Open Source & Public Projects
 
